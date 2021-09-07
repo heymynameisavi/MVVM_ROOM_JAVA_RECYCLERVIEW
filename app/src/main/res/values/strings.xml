@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cars_MVVM_Room</string>
+    <string name="loading">Loading</string>
+</resources>
